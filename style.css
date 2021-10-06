@@ -765,11 +765,11 @@ p {
     font-weight: 600;
   }
   button{
-      border-radius: 20px;
+      border-radius: 10px;
       width: 50%;
      height: 40px;
-     margin: 20px;
-     box-shadow: crimson;
+     margin-top:  50px;
+     box-shadow: rgb(187, 171, 174);
   }
   button:hover{
       color: white;
